@@ -1,0 +1,56 @@
+[{
+        "index": 0,
+        "question": "What is CannaBook?",
+        "answer": "CannaBook is a personal journal application, which includes personal journal entries, recipes, user analytics, and journal customization. Our goal is to provide a comprehensive service for medical and recreational cannabis users; in the hope of allowing our users to better understand their cannabis preferences."
+    },
+    {
+        "index": 1,
+        "question": "What is the difference between the 'Basic' and 'Premium' subscriptions?",
+        "answer": "The 'Basic' subscription is free to use. This includes the journal entries, recipes and most aspects of the journal customization. The 'Premium' subscription costs money to access, which can be accessed in one of three payment plan formats: $8.00 per month, $24.99 per year, $250.00 for lifetime membership. The additional features you will enjoy in the “Premium” subscription consist of: unlimited text to write in each journal entry, unlocking the Statistics page for in depth personal insights, enabling the biometric passcode, enabling the dark mode theme, ability to add personalize recipes, and an improved overall understanding of your interactions with cannabis."
+    },
+    {
+        "index": 2,
+        "question": "Can I share with social media?",
+        "answer": "Yes, simply press the share icon on the item your wish to share on social media. The share icon is located at the bottom right of each shareable item."
+    },
+    {
+        "index": 3,
+        "question": "How can I report a bug?",
+        "answer": "We appreciate all input from our users. Please take a screenshot of the issue and send it to use via our 'Contact Support' tab, located on the Profile page."
+    },
+    {
+        "index": 4,
+        "question": "How does privacy work?",
+        "answer": "We take great pride in preserving the complete privacy of our users. All user data is stored under strict security. No user data is shared or can be seen by others."
+    },
+    {
+        "index": 5,
+        "question": "How do I add new journal entries?",
+        "answer": "You can add new journal entries by pressing the add icon on the Journal menu. This icon is located at the top right corner of the page. Once you press the icon, simply answer the questions on each prompt."
+    },
+    {
+        "index": 6,
+        "question": "Can I edit old journal entries?",
+        "answer": "Yes. To edit an old journal entry, first find the entry you wish to modify. Press the entry to open the details. Now you only must click on the corresponding section you wish to edit to change your entry’s details."
+    },
+    {
+        "index": 7,
+        "question": "How do I delete old journal entries?",
+        "answer": "To delete an old entry, first find the entry you would like to erase. Now press and hold the entry for approximately 2 seconds. You will now see a red trashcan icon appear. Press the icon to delete the journal entry, then confirm you want to permanently erase the entry."
+    },
+    {
+        "index": 8,
+        "question": "How many entires can I have?",
+        "answer": "With both the 'Basic' and 'Premium' subscriptions, all users can have unlimited journal entries."
+    },
+    {
+        "index": 9,
+        "question": "Can I reset my statistics?",
+        "answer": "Yes. You can reset user statistics on the settings menu. Open the Settings menu and navigate to the bottom of the page. Press the “Reset Statistics” button. Follow the prompts on the pop-up menu. \n\nKEEP IN MIND THIS WILL PERMANENTLY ERASE ALL USER ANALYTICS DATA."
+    },
+    {
+        "index": 10,
+        "question": "How do I add/change my profile photo?",
+        "answer": "Adding or changing your profile picture I quite simple. Just click on the pencil icon, located at the lower right corner of the profile photo container. Now follow the prompts on the pop-up."
+    }
+]
