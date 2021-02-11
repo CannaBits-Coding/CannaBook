@@ -1,0 +1,41 @@
+[{
+        "index": 0,
+        "title": "Bong",
+        "iconInfo": "0xe800"
+    },
+    {
+        "index": 1,
+        "title": "Blunt",
+        "iconInfo": "0xe801"
+    },
+    {
+        "index": 2,
+        "title": "Concentrates",
+        "iconInfo": "0xe802"
+    },
+    {
+        "index": 3,
+        "title": "Hookah",
+        "iconInfo": "0xe800"
+    },
+    {
+        "index": 4,
+        "title": "Joint",
+        "iconInfo": "0xe801"
+    },
+    {
+        "index": 5,
+        "title": "Pipe",
+        "iconInfo": "0xe802"
+    },
+    {
+        "index": 6,
+        "title": "Tinture",
+        "iconInfo": "0xe800"
+    },
+    {
+        "index": 7,
+        "title": "Vaporizer",
+        "iconInfo": "0xe801"
+    }
+]
